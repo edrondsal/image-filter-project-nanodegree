@@ -13,3 +13,7 @@ Then run webpack to create the distribution files: `npm run build-dev`
 Finally start the express server: `npm run dev`
 
 Now the web app is available in the localhost:  `localhost:8082`
+
+## Deployed Microservice
+
+The microservice is also deployed in Elastic Beanstalk: `http://image-filter-project-nanodegree-dev.eu-west-3.elasticbeanstalk.com/`
